@@ -48,3 +48,5 @@ const FavoritesScreen = ({ navigation }) => {
         />
     )
 }
+
+export default FavoritesScreen;
